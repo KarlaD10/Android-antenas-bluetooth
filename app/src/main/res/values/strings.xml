@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="valvula_1">Válvula 1:</string>
+    <string name="valvula_2">Válvula 2:</string>
+    <string name="valvula_3">Válvula 3:</string>
+    <string name="valvula_4">Válvula 4:</string>
+    <string name="valvula_5">Válvula 5:</string>
+    <string name="valvula_6">Válvula 6:</string>
+    <string name="valvula_7">Válvula 7:</string>
+    <string name="valvula_8">Válvula 8:</string>
+    <string name="valvula_9">Válvula 9:</string>
+    <string name="valvula_10">Válvula 10:</string>
+    <string name="valvula_11">Válvula 11:</string>
+    <string name="valvula_12">Válvula 12:</string>
+    <string name="valvula_13">Válvula 13:</string>
+
+    <string name="edo">Estado de las válvulas:</string>
+    <string name="manejo">Manejo de las válvulas:</string>
+
+    <string name="conectar">Conectar</string>
+    <string name="desconectar">Desconectar</string>
+
+    <string name="valvula">Válvula:</string>
+    <string name="estado">Estado:</string>
+</resources>
